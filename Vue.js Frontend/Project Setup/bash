@@ -1,0 +1,2 @@
+# Create Vue project with Vite
+npm create vue@latest blog-management-frontend
